@@ -22,11 +22,10 @@
 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
-- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 블록체인 & 윈도우 소프트웨어 & 인공지능 개발자로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 인공지능 & 소프트웨어 개발자로 나아가는 Dreamer.
 
-  - 최대한 많은 스마트 컨트랙트 & 시스템 해킹 분야 및 취약점 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+  - 최대한 많은 해킹 분야 및 취약점 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Smart Contract Hacking, Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS,...), Artificial Intelligence OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Android Kernel Hacking, IOS Kernel Hacking, ARM Based System Hacking, ARM Based OS Kernel Exploit, Windows System Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Artificial Intelligence Hacking, LLM Hacking, V8 Browser Exploit, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, Web3 Secure Coding, Web3 Fuzzing Tool Development, Artificial Intelligence Web3 Fuzzing Tool Development, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Artificial Intelligence OS Kernel Fuzzing Tool Development, ARM OS Kernel Secure Coding, ARM OS Kernel Fuzzing Tool Development, Artificial Intelligence ARM OS Kernel Fuzzing Tool Development, Server Infra Security, OS Kernel Development, ARM OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Smart Contract Software Development, Hyperledger Fabric Software Development,...
 <hr>
 
 ## 🛠 Server Skills
