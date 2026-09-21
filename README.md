@@ -20,9 +20,6 @@
 
 <div align = "center">
 
-## 제가 공부하는 분야는 아래와 같습니다.
-
-- Web Application Security, Mobile Application Security, Web / Mobile Application Vulnerability Research, Web Fuzzing Research.
 
 <hr>
 
